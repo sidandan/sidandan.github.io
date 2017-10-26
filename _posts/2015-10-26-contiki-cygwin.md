@@ -12,7 +12,7 @@ excerpt: 由于使用 Contiki 需要 Linux 环境，切换来切换去很麻烦�
 
 <!--more-->
 
-官方 8051 核的编译文档请参考 [8051 Requirements](https://github.com/contiki-os/contiki/wiki/8051-Requirements)。
+官方 8051 核的编译文档请参考 [8051 Requirements](httpss://github.com/contiki-os/contiki/wiki/8051-Requirements)。
 
 *注：官方的 win32 版的 SDCC 并不适用。*
 
@@ -28,7 +28,7 @@ excerpt: 由于使用 Contiki 需要 Linux 环境，切换来切换去很麻烦�
  > * make
  > * texinfo
 
-此外，还需要安装一个工具，[srecord](http://srecord.sourceforge.net/)，下载 Win32 版本后，直接放于`cygwin/bin/`目录下即可。
+此外，还需要安装一个工具，[srecord](https://srecord.sourceforge.net/)，下载 Win32 版本后，直接放于`cygwin/bin/`目录下即可。
 
 ## 编译 SDCC
 

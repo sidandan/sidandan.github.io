@@ -13,8 +13,8 @@ Jekyll Editor 专门为 Jekyll 博客定制的强大的 markdown 编辑器，它
 
 ## 项目
 
- * **Github**：https://github.com/Simpleyyt/jekyll-editor.git
- * **Chrome 商店**：https://chrome.google.com/webstore/detail/jekyll-editor/dfdkgbhjmllemfblfoohhehdigokocme
+ * **Github**：httpss://github.com/Simpleyyt/jekyll-editor.git
+ * **Chrome 商店**：httpss://chrome.google.com/webstore/detail/jekyll-editor/dfdkgbhjmllemfblfoohhehdigokocme
  
 ## 主要功能
 
@@ -24,7 +24,7 @@ Jekyll Editor 专门为 Jekyll 博客定制的强大的 markdown 编辑器，它
  
 ## 使用说明
 
-![Jekyll Editor](http://simpleyyt.qiniudn.com/15-10-11/10214115.jpg)
+![Jekyll Editor](https://simpleyyt.qiniudn.com/15-10-11/10214115.jpg)
 
 左上角为编辑器的常用工具，包含`emoji`表情。右上角的工具依次为登录、全窗口预览、新博文、博文列表、元数据、提交博文，帮助、关于。
 
@@ -32,13 +32,13 @@ Jekyll Editor 专门为 Jekyll 博客定制的强大的 markdown 编辑器，它
 
 ### 博文列表
 
-![博文列表](http://simpleyyt.qiniudn.com/15-10-11/12709365.jpg)
+![博文列表](https://simpleyyt.qiniudn.com/15-10-11/12709365.jpg)
 
 博文列表会自动获取`<yourname.github.io`仓库读取`_post`目录下`<date>-<slug>.md`格式的文件，即为博文。
 
 ### 元数据
 
-![元数据](http://simpleyyt.qiniudn.com/15-10-11/85340312.jpg)
+![元数据](https://simpleyyt.qiniudn.com/15-10-11/85340312.jpg)
 
 即博文的 yaml 格式数据，博文将会以文件名`<date>-<slug>.md`的格式更新。
 

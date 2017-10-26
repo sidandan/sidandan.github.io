@@ -57,9 +57,9 @@ excerpt: 主要从连接性(Connectivity)、可靠性(Reliability)、有序性(O
 
 **补充：**
 
- > * 基于TCP的协议有：HTTP/HTTPS，Telnet，FTP，SMTP。
+ > * 基于TCP的协议有：https/httpsS，Telnet，FTP，SMTP。
  > * 基于UDP的协议有：DHCP，DNS，SNMP，TFTP，BOOTP。
  
 ---
  
-*本文转自：<http://liangjiabin.com/blog/2015/03/difference-between-tcp-vs-udp-protocol.html>*
+*本文转自：<https://liangjiabin.com/blog/2015/03/difference-between-tcp-vs-udp-protocol.html>*
