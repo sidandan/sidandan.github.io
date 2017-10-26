@@ -2,12 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="103a2e8b-8c39-4e38-97e0-814385458d7e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-21-tools-for-jekyll.md" afterPath="$PROJECT_DIR$/_posts/2015-09-21-tools-for-jekyll.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-22-difference-between-tcp-vs-udp-protocol.md" afterPath="$PROJECT_DIR$/_posts/2015-09-22-difference-between-tcp-vs-udp-protocol.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-23-bit-endian-little-endian-bit-field.md" afterPath="$PROJECT_DIR$/_posts/2015-09-23-bit-endian-little-endian-bit-field.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-23-data-structure-alignmen.md" afterPath="$PROJECT_DIR$/_posts/2015-09-23-data-structure-alignmen.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-11-jekyll-editor-online.md" afterPath="$PROJECT_DIR$/_posts/2015-10-11-jekyll-editor-online.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-11-jekyll-editor-tutorial.md" afterPath="$PROJECT_DIR$/_posts/2015-10-11-jekyll-editor-tutorial.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-26-contiki-cygwin.md" afterPath="$PROJECT_DIR$/_posts/2015-10-26-contiki-cygwin.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-9-tool-for-jekyll-blog.md" afterPath="$PROJECT_DIR$/_posts/2015-10-9-tool-for-jekyll-blog.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-21-JAVA：抽象类VS接口.md" afterPath="$PROJECT_DIR$/_posts/2016-02-21-JAVA：抽象类VS接口.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-15-JAVA中「强引用，软引用，弱引用，虚引用」概念比较.md" afterPath="$PROJECT_DIR$/_posts/2016-03-15-JAVA中「强引用，软引用，弱引用，虚引用」概念比较.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-02-JAVA面试总结.md" afterPath="$PROJECT_DIR$/_posts/2017-05-02-JAVA面试总结.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENCE" afterPath="$PROJECT_DIR$/LICENCE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_partial/after_footer.html" afterPath="$PROJECT_DIR$/_includes/_partial/after_footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_partial/analytics.html" afterPath="$PROJECT_DIR$/_includes/_partial/analytics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/animate.min.css" afterPath="$PROJECT_DIR$/css/animate.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atom.xml" afterPath="$PROJECT_DIR$/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/js/cbpAnimatedHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/cc-by-nc-nd.svg" afterPath="$PROJECT_DIR$/assets/img/cc-by-nc-nd.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/cc-by-nc-sa.svg" afterPath="$PROJECT_DIR$/assets/img/cc-by-nc-sa.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/cc-by-nc.svg" afterPath="$PROJECT_DIR$/assets/img/cc-by-nc.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/cc-by-nd.svg" afterPath="$PROJECT_DIR$/assets/img/cc-by-nd.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/cc-by-sa.svg" afterPath="$PROJECT_DIR$/assets/img/cc-by-sa.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/cc-by.svg" afterPath="$PROJECT_DIR$/assets/img/cc-by.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/cc-zero.svg" afterPath="$PROJECT_DIR$/assets/img/cc-zero.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/classie.js" afterPath="$PROJECT_DIR$/js/classie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/contact.html" afterPath="$PROJECT_DIR$/_includes/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/font/coveredbyyourgrace-webfont.svg" afterPath="$PROJECT_DIR$/assets/font/coveredbyyourgrace-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/coveredbyyourgrace-webfont.svg" afterPath="$PROJECT_DIR$/fonts/coveredbyyourgrace-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/creative.js" afterPath="$PROJECT_DIR$/js/creative.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_widget/douban.html" afterPath="$PROJECT_DIR$/_includes/_widget/douban.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/assets/font/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/font/fontdiao.svg" afterPath="$PROJECT_DIR$/assets/font/fontdiao.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontdiao.svg" afterPath="$PROJECT_DIR$/fonts/fontdiao.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_partial/footer.html" afterPath="$PROJECT_DIR$/_includes/_partial/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_partial/header.html" afterPath="$PROJECT_DIR$/_includes/_partial/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_partial/post/header.html" afterPath="$PROJECT_DIR$/_includes/_partial/post/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_partial/post/jiathis.html" afterPath="$PROJECT_DIR$/_includes/_partial/post/jiathis.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery-2.0.3.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery-2.0.3.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/js/jquery.easing.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fancybox/helpers/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/assets/fancybox/helpers/jquery.fancybox-media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fancybox/jquery.fancybox.js" afterPath="$PROJECT_DIR$/assets/fancybox/jquery.fancybox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.fittext.js" afterPath="$PROJECT_DIR$/js/jquery.fittext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery.qrcode-0.12.0.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.qrcode-0.12.0.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/logo.svg" afterPath="$PROJECT_DIR$/assets/img/logo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_partial/mathjax.html" afterPath="$PROJECT_DIR$/_includes/_partial/mathjax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rss.xml" afterPath="$PROJECT_DIR$/rss.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_partial/search.html" afterPath="$PROJECT_DIR$/_includes/_partial/search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/toc.js" afterPath="$PROJECT_DIR$/assets/js/toc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_widget/weibo.html" afterPath="$PROJECT_DIR$/_includes/_widget/weibo.html" />
     </list>
     <ignored path="sidandan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,16 +88,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".name" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/.name">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,11 +138,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08994709">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3877551">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -103,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-02-21-JAVA：抽象类VS接口.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.76">
-              <caret line="23" column="65" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="65" />
+              <caret line="23" column="66" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -144,6 +203,7 @@
       <list>
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/404.html" />
       </list>
     </option>
   </component>
@@ -326,12 +386,12 @@
       <option name="number" value="Default" />
       <updated>1509018123065</updated>
       <workItem from="1509018125607" duration="721000" />
-      <workItem from="1509019754073" duration="546000" />
+      <workItem from="1509019754073" duration="797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1267000" />
+    <option name="totallyTimeSpent" value="1518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="713" extended-state="6" />
@@ -461,7 +521,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-02-21-JAVA：抽象类VS接口.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.76">
-          <caret line="23" column="65" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="65" />
+          <caret line="23" column="66" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="66" />
           <folding />
         </state>
       </provider>
@@ -492,8 +552,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08994709">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3877551">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>

@@ -1,4 +1,4 @@
-// https://github.com/ghiculescu/jekyll-table-of-contents
+// httpss://github.com/ghiculescu/jekyll-table-of-contents
 (function($){
     
     function Stack(){

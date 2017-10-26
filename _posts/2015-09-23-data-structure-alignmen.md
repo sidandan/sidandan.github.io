@@ -116,4 +116,4 @@ struct BitField4{
 
 ---
 
-*本文参考：<http://www.cnblogs.com/clover-toeic/p/3853132.html>*
+*本文参考：<https://www.cnblogs.com/clover-toeic/p/3853132.html>*
