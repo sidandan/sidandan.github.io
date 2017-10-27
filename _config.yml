@@ -82,15 +82,10 @@ mathjax: false      #enable mathjax if true
 #### Author information
 author:
   name: sidandan      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm danda in Shanghai."    ## your introduction on the bottom of the page
-  intro_line2:  "Too simple, sometimes naive."  ## the 2nd line
-  weibo: 5729765191     ## e.g. wuchong1014 or 2176287895 for https://weibo.com/2176287895
-  weibo_verifier: 9d4bc461 ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
-  tsina: 9d4bc461     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
-  douban: 74961542    ## e.g. wuchong1014 or your id for httpss://www.douban.com/people/wuchong1014
-  zhihu: sidandan     ## e.g. jark  for https://www.zhihu.com/people/jark
-  email: sidandan@gmail.com     ## e.g. imjark@gmail.com
-  twitter:    ## e.g. jarkwu for httpss://twitter.com/jarkwu
+  intro_line1:  "Hello ,I'm dandan in Shanghai."    ## your introduction on the bottom of the page
+  intro_line2:  ""  ## the 2nd line
+  weibo: 977503840     ## e.g. wuchong1014 or 2176287895 for https://weibo.com/2176287895
+  weibo_verifier: 620314199171 ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   github: sidandan    ## e.g. wuchong for httpss://github.com/wuchong
   facebook: xiaobiu.sun  ## e.g. imjark for httpss://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for httpss://www.linkedin.com/in/wuchong1014
